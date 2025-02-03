@@ -31,7 +31,7 @@ const ProductImages = () => {
               src={src}
               alt={`Brand ${index + 1}`}
               width={150}
-              height={100}
+              className="h-auto"
             />
           </div>
         ))}

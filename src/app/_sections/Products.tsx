@@ -8,7 +8,7 @@ type Props = {};
 const Products = (props: Props) => {
   return (
     <div className="w-full flex items-center justify-center bg-[#1e1e1e] border-none">
-      <section className="w-full max-w-[1200px] md:py-12 md:px-0 px-6 py-20 flex flex-col items-center text-center md:gap-10 gap-8">
+      <section className="w-full max-w-[1200px] md:py-12 md:px-0 px-6 pt-14 p-20 flex flex-col items-center text-center md:gap-10 gap-8">
         <div className="w-full max-w-[800px] text-white">
           <h2 className="text-4xl md:text-5xl font-serif leading-tight mb-6">
             With over 10,000+ Products Available
