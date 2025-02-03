@@ -81,3 +81,25 @@ html {
     @apply bg-background text-foreground;
   }
 }
+
+.custom-shape-divider-bottom-1738595750 {
+  position: absolute;
+  bottom: -0.5;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+  transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1738595750 svg {
+  position: relative;
+  display: block;
+  width: calc(147% + 1.3px);
+  height: 67px;
+  transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1738595750 .shape-fill {
+  fill: #1e1e1e;
+}
